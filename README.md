@@ -1,3 +1,3 @@
 # Fractals
 
-Try : https://axellben.github.io/Fractals/
+Try : https://alxcrt.github.io/Fractals/
